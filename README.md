@@ -1,4 +1,5 @@
 <!-- Header -->
+<link rel="stylesheet" type="text/css" href="style.css">
 <p align="center">
   <img src="https://your-image-url.com/your-image.png" width="200" alt="Your Logo">
 </p>
